@@ -1,4 +1,4 @@
-Social Media Do’s and Don’ts for College Students
+# Social Media Do’s and Don’ts for College Students :
 
 Do’s: 
 1- Use your platforms to showcase your skills, projects, internships, and professional passion.
