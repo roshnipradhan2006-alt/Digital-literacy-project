@@ -1,4 +1,4 @@
-# Stay Safe Online Checklist for Indian Students : 
+# Stay Safe Online Checklist for College Students : 
 
 1- Enable 2FA (Two-Factor Authentication): Activate 2FA on all social media (Instagram, WhatsApp) and university email accounts to prevent unauthorized access.
 2- Secure UPI Transactions (Financial): Never enter your UPI PIN to receive money. Only enter the PIN when sending money. If someone asks for a PIN to receive money, it is a scam.
