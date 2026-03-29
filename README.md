@@ -101,35 +101,25 @@ Tools and Platforms Used
 The following tools and platforms were used while completing this project:
 References:
 
-Canva. (2026). Online design and infographic creation tool. Retrieved from
-
+Canva. (2026). Online design and infographic creation tool. 
+Retrieved from : 
 https://www.canva.com/design/DAHE25u-rIQ/KFUf5ymkJda7xhoMrBkf-A/edit?utm_content=DAHE25u-rIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-GitHub. (2026). Platform for hosting and managing code repositories. Retrieved from
-
-https://github.com/roshnipradhan2006-alt/Digital-literacy-project
-
-LinkedIn. (2026). Professional networking platform. Retrieved from
-
+LinkedIn. (2026). Professional networking platform. 
+Retrieved from :
 https://www.linkedin.com/in/roshni-pradhan-488419380/
 
-HackerRank. (2026). Online coding practice and skill development platform. Retrieved from
-
-Google Forms. (2026). Tool for creating online surveys and quizzes. Retrieved from
-
+Google Forms. (2026). Tool for creating online surveys and quizzes. 
+Retrieved from:
 https://forms.gle/TDfL7jWvHWiJ4vA38
 
-
-Repository Link: 
+HackerRank. (2026). Online coding practice and skill development platform.
 
 
 Final Reflection
 I have learned a lot from this project, and I have come to appreciate the importance of digital literacy in my daily academic life. I have learned how to effectively present digital information, create a professional online presence, effectively communicate through emails, and be aware of cyber threats.
 
-Most importantly, this project has helped me learn that digital literacy is not only about learning how to use digital tools but also how to use digital tools responsibly. The skills I have learned through this project are going to be very useful to me in my future academic career and professional life.
-
-
-# Repository Link: 
+Most importantly, this project has helped me learn that digital literacy is not only about learning how to use digital tools but also how to use digital tools responsibly. The skills I have learned through this project are going to be very useful to me in my future academic career and professional life. 
 
 
 # Final Reflection
